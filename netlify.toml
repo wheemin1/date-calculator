@@ -1,7 +1,10 @@
 [build]
   command = "npm run build"
   publish = "dist"
+<<<<<<< HEAD
   base = "project/"
+=======
+>>>>>>> c4a2740 (Initial commit with SEO and OG meta tags)
 
 [[redirects]]
   from = "/*"

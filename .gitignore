@@ -23,3 +23,9 @@ dist-ssr
 *.sln
 *.sw?
 .env
+<<<<<<< HEAD
+=======
+
+# Local Netlify folder
+.netlify
+>>>>>>> c4a2740 (Initial commit with SEO and OG meta tags)
