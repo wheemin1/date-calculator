@@ -1,0 +1,46 @@
+{
+  "appTitle": "날짜 계산기",
+  "mode": {
+    "difference": "날짜 차이",
+    "addSubtract": "날짜 더하기/빼기"
+  },
+  "dateDifference": {
+    "startDate": "시작 날짜",
+    "endDate": "종료 날짜",
+    "includeStartDay": "시작일 포함하여 계산",
+    "result": "결과",
+    "days": "일",
+    "resultText": "{{startDate}}부터 {{endDate}}까지 {{days}}일",
+    "weekday": "{{date}} ({{weekday}})"
+  },
+  "dateAddSubtract": {
+    "startDate": "시작 날짜",
+    "days": "일수",
+    "add": "더하기",
+    "subtract": "빼기",
+    "includeStartDay": "시작일 포함하여 계산",
+    "result": "결과",
+    "resultText": "결과 날짜는 {{date}}입니다",
+    "weekday": "{{date}} ({{weekday}})"
+  },
+  "common": {
+    "calculate": "계산",
+    "reset": "초기화",
+    "weekdays": {
+      "sunday": "일요일",
+      "monday": "월요일",
+      "tuesday": "화요일",
+      "wednesday": "수요일",
+      "thursday": "목요일",
+      "friday": "금요일",
+      "saturday": "토요일"
+    }
+  },
+  "settings": {
+    "language": "언어",
+    "theme": "테마",
+    "light": "라이트",
+    "dark": "다크",
+    "system": "시스템"
+  }
+}

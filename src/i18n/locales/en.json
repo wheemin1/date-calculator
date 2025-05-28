@@ -1,0 +1,46 @@
+{
+  "appTitle": "Date Calculator",
+  "mode": {
+    "difference": "Date Difference",
+    "addSubtract": "Add/Subtract Days"
+  },
+  "dateDifference": {
+    "startDate": "Start Date",
+    "endDate": "End Date",
+    "includeStartDay": "Include start day in calculation",
+    "result": "Result",
+    "days": "days",
+    "resultText": "{{days}} days from {{startDate}} to {{endDate}}",
+    "weekday": "{{date}} ({{weekday}})"
+  },
+  "dateAddSubtract": {
+    "startDate": "Start Date",
+    "days": "Days",
+    "add": "Add",
+    "subtract": "Subtract",
+    "includeStartDay": "Include start day in calculation",
+    "result": "Result",
+    "resultText": "Result date is {{date}}",
+    "weekday": "{{date}} ({{weekday}})"
+  },
+  "common": {
+    "calculate": "Calculate",
+    "reset": "Reset",
+    "weekdays": {
+      "sunday": "Sunday",
+      "monday": "Monday",
+      "tuesday": "Tuesday",
+      "wednesday": "Wednesday",
+      "thursday": "Thursday",
+      "friday": "Friday",
+      "saturday": "Saturday"
+    }
+  },
+  "settings": {
+    "language": "Language",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  }
+}
